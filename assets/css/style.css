@@ -105,11 +105,12 @@ footer {
 
 .sidebar {
   width: 100%;
-  max-width: 270px;
+  max-width: 350px;
   padding: 30px;
   margin-bottom: 20px;
   background: #fff;
   border: 1px solid #ddd;
+  margin: auto;
 }
 
 h3,
